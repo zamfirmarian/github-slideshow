@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Education is not something that we can finish"
 Use the left arrow to go back!
